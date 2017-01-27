@@ -4,7 +4,7 @@ import autoit
 import time
 import HTMLTestRunner
 import sys
-# 
+#
 url = 'https://owa.mos.ru/EWS/Exchange.asmx'
 login = 'SolovievEV'
 password = 'rOURDPTc'
